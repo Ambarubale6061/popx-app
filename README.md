@@ -147,7 +147,7 @@ Live URL:
 
 ## 👨‍💻 Author
 
-**Rushikesh Ubale**
+**Ambar Ubale**
 
 - GitHub: [https://github.com/Ambarubale6061](https://github.com/Ambarubale6061)
 
